@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/task-app-ts/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/task-app-ts/static/js/main.9ada8d5c.chunk.js",
+    "main.js.map": "/task-app-ts/static/js/main.9ada8d5c.chunk.js.map",
+    "runtime-main.js": "/task-app-ts/static/js/runtime-main.618813fb.js",
+    "runtime-main.js.map": "/task-app-ts/static/js/runtime-main.618813fb.js.map",
+    "static/css/2.393373b8.chunk.css": "/task-app-ts/static/css/2.393373b8.chunk.css",
+    "static/js/2.bc18b7e3.chunk.js": "/task-app-ts/static/js/2.bc18b7e3.chunk.js",
+    "static/js/2.bc18b7e3.chunk.js.map": "/task-app-ts/static/js/2.bc18b7e3.chunk.js.map",
+    "static/js/3.c873743d.chunk.js": "/task-app-ts/static/js/3.c873743d.chunk.js",
+    "static/js/3.c873743d.chunk.js.map": "/task-app-ts/static/js/3.c873743d.chunk.js.map",
+    "index.html": "/task-app-ts/index.html",
+    "static/css/2.393373b8.chunk.css.map": "/task-app-ts/static/css/2.393373b8.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/task-app-ts/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.bc18b7e3.chunk.js.LICENSE.txt": "/task-app-ts/static/js/2.bc18b7e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.618813fb.js",
+    "static/css/2.393373b8.chunk.css",
+    "static/js/2.bc18b7e3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9ada8d5c.chunk.js"
+  ]
+}
